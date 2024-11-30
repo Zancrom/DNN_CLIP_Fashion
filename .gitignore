@@ -1,1 +1,3 @@
 data/*
+image_model.pth
+text_model.pth
